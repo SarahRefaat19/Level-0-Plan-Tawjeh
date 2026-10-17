@@ -29,10 +29,9 @@ Level 0 builds the programming foundation required before moving into backend de
 - Watch the assigned resource before practicing the topic.
 - Write every solution yourself.
 - Understand every submitted solution.
-- Add the exercise number, source, and link above each exercise.
+- Add the exercise number above each exercise.
 - Keep solutions organized according to the repository structure.
-- Push work regularly.
-- Update the progress tracker after completing each section.
+- Push work regularly on GitHub.
 - Be ready to explain any submitted code or SQL query.
 - LeetCode is used for SQL practice only.
 - Review wrong answers before moving forward.
@@ -54,7 +53,6 @@ Level 0 builds the programming foundation required before moving into backend de
 
 ### Arabic Resources
 
-**Main Course:** Mastering C#.NET in Arabic — Metigator
 
 **Topic Resources:** Introduction to C#.NET · Solution and Project in C# · Variables in C# · Boolean Types and Logical Operators · Expressions in C# · Casting and Type Conversion · Debugging in C#
 
@@ -83,7 +81,6 @@ Level 0 builds the programming foundation required before moving into backend de
 
 ### Arabic Resources
 
-Arrays in C# · Methods and Passing by Value/Reference · Exceptions in C# · Struct in C# · Enums in C#
 
 ### Required Exercises
 
@@ -118,11 +115,9 @@ Arrays in C# · Methods and Passing by Value/Reference · Exceptions in C# · St
 - **16 — Interfaces:** Why interfaces? Multiple interfaces, implicit vs explicit implementation, built-in interfaces, abstract class vs interface.
 - **17 — Advanced Class Features:** sealed, partial, operator overloading, user-defined casting operators, extension methods.
 - **18 — Copying Objects:** Reference copy, shallow copy, deep copy.
-- **19 — .NET Structure:** Solution, project, assembly, namespace, class library.
 
 ### Resources
 
-Mastering C#.NET in Arabic — Metigator: Fields and Constants · Methods · Constructors · Properties · Inheritance · Interfaces · Generics · Enumerators and Iterators
 
 ### Exercises
 
@@ -166,9 +161,7 @@ Practice each of the following:
 
 ### Resources
 
-- Database and SQL Course in Arabic — Ahmed El-Gendy
-- SQL Course for Beginners in Arabic
-- SQL and MySQL Tutorial in Arabic — Coder Shiyar
+
 
 ### Required Exercises
 
@@ -205,8 +198,6 @@ Practice each of the following:
 
 ### Resources
 
-- SQL Beginner to Advanced in Arabic
-- Learn SQL in 6 Hours — Arabic
 
 ### Required SQL Exercises
 
@@ -297,58 +288,6 @@ Set operators · Subqueries · EXISTS / NOT EXISTS · Ranking · CTE · Views ·
 
 The final mock interviews are an assessment, not another learning section. They cover C#, OOP, Database & SQL, and the two projects (see Final Mock Interview below).
 
-## Exercise Submission Standard
-
-Every exercise must contain:
-
-```
-Exercise-001/
-├── README.md
-└── solution/
-    └── Program.cs
-```
-
-For SQL:
-
-```
-Exercise-001/
-├── README.md
-└── solution.sql
-```
-
-**Exercise README:**
-
-```
-# Exercise 001
-
-## Topic
-...
-
-## Source
-...
-
-## Problem
-...
-
-## Approach
-...
-
-## Solution
-...
-
-## Notes
-...
-```
-
-**Required comment in source:**
-
-```
-// Exercise 001
-// Source: w3resource
-// Link: <exercise-url>
-```
-
-This keeps the exercise traceable to its original source.
 
 ## Projects
 
@@ -417,17 +356,6 @@ DBMS vs RDBMS · Primary key vs foreign key · Normalization (1NF / 2NF / 3NF) �
 - [ ] Explain class relationships.
 - [ ] Explain major design decisions.
 - [ ] Walk through code without depending on the IDE.
-
-## Progress Tracker
-
-| Sprint | Track | Exercises | LeetCode | Project | Review |
-| --- | --- | --- | --- | --- | --- |
-| 01 | C# Basics | ☐ | — | — | ☐ |
-| 02 | C# Basics | ☐ | — | — | ☐ |
-| 03 | OOP | ☐ | — | ☐ OOP Project | ☐ |
-| 04 | Database & SQL | ☐ | ☐ 14 | — | ☐ |
-| 05 | Database & SQL | ☐ | ☐ 31 | — | ☐ |
-| 06 | Advanced SQL & Mock Interviews | ☐ | ☐ 5 | ☐ DB Project | ☐ |
 
 ## Level 0 Completion Criteria
 
